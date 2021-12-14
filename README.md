@@ -14,5 +14,7 @@ List of datasets ("data/" dir):
 ## Licenses
 
 Packaged data licensed under CC-Zero.
+
 Original content licensed under [following terms](https://www.pushkinmuseum.art/usage_policy/index.php?lang=ru)
+
 All IP rights on images belongs to museums published these images on the Pushkin Museum.
